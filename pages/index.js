@@ -9,7 +9,7 @@ export default function Home() {
 
       </Head>
 
-      <h1>Let's build Facebook Clone</h1>
+      {/* <h1>Let's build Facebook Clone</h1> */}
 
 
       {/* Header  */}
